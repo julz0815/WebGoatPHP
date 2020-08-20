@@ -6,6 +6,6 @@ class Test extends JTestSuite
 	{
 		$this->add("test/main");
 	}
-}
+
 
 ?>
